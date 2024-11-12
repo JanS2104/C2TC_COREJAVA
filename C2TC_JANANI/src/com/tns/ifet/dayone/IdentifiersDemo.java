@@ -6,7 +6,7 @@ public class IdentifiersDemo {
 		// TODO Auto-generated method stub
 		int $number = 20;
 		System.out.println("value of the number variable is:"+$number);
-		String studentName = "SURYA";
+		String studentName = "JANSAN";
 		System.out.println("value of the string is:"+studentName);
 	}
 
